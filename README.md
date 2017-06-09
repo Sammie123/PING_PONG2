@@ -17,8 +17,8 @@ Open HTML file
 ## Specifications
 
 * It can count up the provided number.
-          * Example Input: 2
-          * Example Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong]
+* Example Input: 2
+* Example Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong]
 
 ## Support and contact details
 
