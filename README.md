@@ -10,14 +10,14 @@ This webpage is designed for the user to enter a number and if the number is div
 
 ## Setup/Installation Requirements
 
-Clone this repository
-Open HTML file
+* Clone this repository
+* Open HTML file
 
 
 ## Specifications
 
 * It can count up the provided number.
-* Example Input: 2
+* Example Input: 15
 * Example Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong]
 
 ## Support and contact details
