@@ -1,0 +1,12 @@
+#results {
+  display: none;
+}
+
+.jumbotron {
+  background-color: #7E8E08;
+  color: white;
+}
+body {
+  background-color: grey;
+  color: #08694E;
+}
