@@ -1,6 +1,7 @@
+var userNum = parseInt($("input#userInput").val());
+
 $(document).ready(function() {
   $("form#pingPong").submit(function(event) {
-    var userNum = parseInt($("input#userInput").val());
     for (index = 1; index <= userNum; index +=1 ) {
       if ((index % 3 === 0) && (index % 5 === 0)) {
         $("ul#results").append('<li>' + "pingpong" + '</li>');
